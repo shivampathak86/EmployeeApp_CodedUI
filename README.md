@@ -1,11 +1,11 @@
-# ExecuteAutomationWebApp
+
 This application is used for automating selenium and coded UI frameworks course
 
 #Automation framework development with Selenium C sharp
-https://www.udemy.com/framework-development-with-selenium-csharp-advanced
+
 
 #Advanced framework development with Coded UI Test 2015
-https://www.udemy.com/framework-development-with-cuit
+
 
 #How to Compile application ?
 All you have to do is 
